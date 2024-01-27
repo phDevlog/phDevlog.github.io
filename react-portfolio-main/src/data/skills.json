@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Blender",
+    "imageSrc": "skills/Blender.png"
+  },
+  {
+    "title": "3DS Max",
+    "imageSrc": "skills/3ds.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/Test.png"
+  },
+  {
+    "title": "Mudbox",
+    "imageSrc": "skills/mudbox.svg"
+  },
+  {
+    "title": "Nomad Sclupt",
+    "imageSrc": "skills/nomad.png"
+  },
+  {
+    "title": "Aseprite",
+    "imageSrc": "skills/aseprite.png"
+  }
+]

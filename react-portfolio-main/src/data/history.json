@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Level II Support Technician",
+    "organisation": "Sherweb",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Personalized IT support for clients", "Management of several technical services"],
+    "imageSrc": "history/Sherweb.png"
+  },
+  {
+    "role": "Office Administrator",
+    "organisation": "Oakview Group",
+    "startDate": "October, 2021",
+    "endDate": "June, 2023",
+    "experiences": ["Scheduled events for large organizations", "Managed financial records and provided support for clientele"],
+    "imageSrc": "history/Oakview.png"
+  },
+  {
+    "role": "Delivery Specialist",
+    "organisation": "Niagara Bouquet",
+    "startDate": "February, 2015",
+    "endDate": "January, 2021",
+    "experiences": [
+      "Assisted with the delivery of luxury goods across Ontario",
+      "Packed and managed shipments"
+    ],
+    "imageSrc": "history/niagara.png"
+  }
+]

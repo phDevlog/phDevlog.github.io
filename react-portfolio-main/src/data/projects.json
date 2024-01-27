@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Trial of Sacrifice",
+    "imageSrc": "projects/project.png",
+    "description": "A collaborative effort with classmates to create a hack&slash dungeon crawler.",
+    "skills": ["Modeller", "Rig artist", "Animator", "Textures"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Art Station",
+    "imageSrc": "projects/project.png",
+    "description": "This is my art station that contains all of my pieces in various stages of completion.",
+    "skills": ["Models", "Rigs", "Textures"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Youtube - Soon",
+    "imageSrc": "projects/project.png",
+    "description": "I'm currently working on a timelapse series of some models I have created for our team project.",
+    "skills": ["Models", "Rigs", "Textures"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
